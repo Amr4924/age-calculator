@@ -48,7 +48,7 @@ Your age in seconds: 788630400
 
 ## 👤 المطور
 
-- GitHub: [SA3DWY](https://github.com/SA3DWY)
+- GitHub: [SA3DWY]([https://github.com/SA3DWY](https://github.com/Amr4924))
 
 ## 📄 الرخصة
 
